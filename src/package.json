@@ -1,0 +1,11 @@
+{
+  "name": "3vw24xnlqm",
+  "version": "1.0.0",
+  "description": "Centralized propTypes example",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react-dom": "16.0.0",
+    "react": "16.0.0"
+  }
+}
